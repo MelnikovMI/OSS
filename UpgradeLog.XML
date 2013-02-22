@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="lab1">
+</Property><Property Name="Solution File" Value="E:\lab1\lab1.sln">
+</Property><Property Name="User Options File" Value="E:\lab1\lab1.suo">
+</Property><Property Name="Date" Value="22 февраля 2013 г.">
+</Property><Property Name="Time" Value="11:16">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="lab1.sln" Description="File successfully backed up as E:\lab1\Backup\lab1.sln">
+</Event><Event ErrorLevel="0" Project="" Source="lab1.suo" Description="File successfully backed up as E:\lab1\Backup\lab1.suo">
+</Event><Event ErrorLevel="0" Project="lab1" Source="lab1\lab1.csproj" Description="Project file successfully backed up as E:\lab1\Backup\lab1\lab1.csproj">
+</Event><Event ErrorLevel="0" Project="lab1" Source="lab1\App.xaml.cs" Description="File successfully backed up as E:\lab1\Backup\lab1\App.xaml.cs">
+</Event><Event ErrorLevel="0" Project="lab1" Source="lab1\Window1.xaml.cs" Description="File successfully backed up as E:\lab1\Backup\lab1\Window1.xaml.cs">
+</Event><Event ErrorLevel="0" Project="lab1" Source="lab1\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\lab1\Backup\lab1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="lab1" Source="lab1\Properties\Resources.Designer.cs" Description="File successfully backed up as E:\lab1\Backup\lab1\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="lab1" Source="lab1\Properties\Settings.Designer.cs" Description="File successfully backed up as E:\lab1\Backup\lab1\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="lab1" Source="lab1\Properties\Settings.settings" Description="File successfully backed up as E:\lab1\Backup\lab1\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="lab1" Source="lab1\Properties\Resources.resx" Description="File successfully backed up as E:\lab1\Backup\lab1\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="lab1" Source="lab1\App.xaml" Description="File successfully backed up as E:\lab1\Backup\lab1\App.xaml">
+</Event><Event ErrorLevel="0" Project="lab1" Source="lab1\Window1.xaml" Description="File successfully backed up as E:\lab1\Backup\lab1\Window1.xaml">
+</Event><Event ErrorLevel="0" Project="lab1" Source="lab1\lab1.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="lab1" Source="lab1\lab1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="lab1.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="lab1.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="lab1" Source="lab1\lab1.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
